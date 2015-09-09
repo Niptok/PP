@@ -7,7 +7,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, [COLOR blue] ZABI ATEF  [/COLOR]
  
-#EXTINF:-1,[COLOR blue][I][B]-------------- Update 25.04.2015 --------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]-------------- Update 25.08.2015 --------------[/B][/I][/COLOR]
 
 #EXTINF:-1,TF 1 hd
 http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&X-Forwarded-For=146.159.95.38
