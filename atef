@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1, [COLOR yellow] FRANCE TV  [/COLOR]
+
+#EXTM3U
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LES CHAINE Test”,[COLOR yellow]» » LES CHAINE FR« «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [COLOR blue] ZABI ATEF  [/COLOR]
+ 
+#EXTINF:-1,[COLOR blue][I][B]-------------- Update 25.08.2015 --------------[/B][/I][/COLOR]
+
+
+#EXTINF:0,BeIN Sports 2 FR
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:0,BeIN Sports 3 FR
+http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:0,canal+ decaler
+http://178.33.88.129:888/udp/239.102.0.56:1234
+#EXTINF:0,canal+ sport
+http://178.33.88.129:888/udp/239.102.0.55:1234
+#EXTINF:-1, SKY SPORT NEWS
+http://iptv.x200.in:8000/live/majid/majid/771.ts
+#EXTINF:-1, DISCOVERY SHED
+http://iptv.x200.in:8000/live/majid/majid/772.ts
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+http://iptv.x200.in:8000/live/majid/majid/776.ts
+#EXTINF:-1, DISCOVERY HISTORY
+http://iptv.x200.in:8000/live/majid/majid/775.ts
+#EXTINF:-1, http://sat-master.org DISCOVERY
+http://iptv.x200.in:8000/live/majid/majid/769.ts
+#EXTINF:-1, Sky Sport 5 UK
+http://iptv.x200.in:8000/live/majid/majid/60.ts
+#EXTINF:-1, Sky Sport 4 UK
+http://iptv.x200.in:8000/live/majid/majid/59.ts
+#EXTINF:-1, Sky Sport 3 UK
+http://iptv.x200.in:8000/live/majid/majid/58.ts
