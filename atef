@@ -7,7 +7,84 @@ http://0.0.0.0:1234
 
 #EXTINF:-1, [COLOR blue] ZABI ATEF  [/COLOR]
  
-#EXTINF:-1,[COLOR blue][I][B]-------------- Update 25.08.2015 --------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]-------------- Update 10.09.2015 --------------[/B][/I][/COLOR]
+
+#EXTINF:-1,TF 1 hd
+http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,M6 hd
+http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+
+#EXTINF:-1,France2 hd
+http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=146.159.95.38
+
+
+#EXTINF:-1,France3 hd
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+
+#EXTINF:-1,France 4 hd
+http://streaming.racacaxtv.lescigales.org/android/francetv/simulcast/France_4/hls_v1/index.m3u8
+
+#EXTINF:-1,France5 hd
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,RTL9 hd
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+#EXTINF:-1,Chérie 25
+http://assimilator.ch/stream-randomy15m8d11/110/cheriehd_1@97438/index_4000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,NRJ 12
+http://hlstv-g3.swisscom.com/iphone/_definst_/flv:1735_WIFIHD.stream/playlist.m3u8?wowzasessionid=1916180587&E=xrrzz&N6=MLKP5E6&F=-stPwuqtqqsMxNLzPtKyrvwKvsrOKMqwO&MSK=true&NHM=vyqqqqqrrsq&6HM=TLOWUHaIBCLaB86PEy&NHM6=y&J=yvvyryvtqrtyq&76=x&time=1441814770800
+
+
+#EXTINF:-1,TMC hd
+
+#EXTINF:-1,NT 1 hd
+
+
+#EXTINF:-1,HD 1 hd
+
+
+
+#EXTINF:-1,RTS 1 hd
+http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+
+#EXTINF:-1,RTS 2 hd
+http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+
+#EXTINF:-1,W9 hd
+
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+
+#EXTINF:-1,W9 hd
+http://racacaxtv.olympe.in/grm6/m6.php/w9_hls_aes/w9_hls_aes_456.m3u8
+
+#EXTINF:-1,la Deux hd
+
+
+
+#EXTINF:-1,la Trois hd
+
+
+
+#EXTINF:-1,D8 hd
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+
+#EXTINF:-1,D8 hd
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=2100000-audio_AACL_fra_96000_127=96000.m3u8
+
+
+#EXTINF:-1,D17 hd
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+
+#EXTINF:-1,D17 hd
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=2100000-audio_AACL_fra_96000_127=96000.m3u8
+
+#EXTINF:-1,D17 hd
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8
 
 
 #EXTINF:0,BeIN Sports 2 FR
@@ -34,3 +111,4 @@ http://iptv.x200.in:8000/live/majid/majid/60.ts
 http://iptv.x200.in:8000/live/majid/majid/59.ts
 #EXTINF:-1, Sky Sport 3 UK
 http://iptv.x200.in:8000/live/majid/majid/58.ts
+
