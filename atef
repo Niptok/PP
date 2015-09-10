@@ -14,6 +14,16 @@ http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=M
 
 #EXTINF:-1,M6 hd
 http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+#EXTINF:-1,M6 hd
+http://hls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_456.m3u8
+#EXTINF:-1,M6 hd
+http://hls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1,M6 hd
+http://phls-web-sr.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+#EXTINF:-1,M6 hd
+http://hls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_264.m3u8
+#EXTINF:-1,M6 hd
+http://hls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_64.m3u8
 
 
 #EXTINF:-1,France2 hd
@@ -40,6 +50,9 @@ http://assimilator.ch/stream-randomy15m8d11/110/cheriehd_1@97438/index_4000_av-p
 http://hlstv-g3.swisscom.com/iphone/_definst_/flv:1735_WIFIHD.stream/playlist.m3u8?wowzasessionid=1916180587&E=xrrzz&N6=MLKP5E6&F=-stPwuqtqqsMxNLzPtKyrvwKvsrOKMqwO&MSK=true&NHM=vyqqqqqrrsq&6HM=TLOWUHaIBCLaB86PEy&NHM6=y&J=yvvyryvtqrtyq&76=x&time=1441814770800
 
 
+#EXTINF:-1,Numero 23
+http://stream-02.vty.dailymotion.com/08/dm/1/x13p3qi/live.isml/events(live-whatdoesthefoxsay)/live-audio=64000-video=400000.m3u8?e=1442062771&st=qyNspLV5XoOxQ6gSvpgBmQ#cell=livev2
+
 #EXTINF:-1,TMC hd
 
 #EXTINF:-1,NT 1 hd
@@ -54,38 +67,6 @@ http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded
 
 #EXTINF:-1,RTS 2 hd
 http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
-
-#EXTINF:-1,W9 hd
-
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-
-#EXTINF:-1,W9 hd
-http://racacaxtv.olympe.in/grm6/m6.php/w9_hls_aes/w9_hls_aes_456.m3u8
-
-#EXTINF:-1,la Deux hd
-
-
-
-#EXTINF:-1,la Trois hd
-
-
-
-#EXTINF:-1,D8 hd
-http://streaming.racacaxtv.lescigales.org/android/cnlpls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
-
-#EXTINF:-1,D8 hd
-http://streaming.racacaxtv.lescigales.org/android/cnlpls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=2100000-audio_AACL_fra_96000_127=96000.m3u8
-
-
-#EXTINF:-1,D17 hd
-http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
-
-#EXTINF:-1,D17 hd
-http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=2100000-audio_AACL_fra_96000_127=96000.m3u8
-
-#EXTINF:-1,D17 hd
-http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8
-
 
 #EXTINF:0,BeIN Sports 2 FR
 http://178.33.88.129:888/udp/239.102.0.21:1234
